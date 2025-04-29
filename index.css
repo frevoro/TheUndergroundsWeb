@@ -1,0 +1,20 @@
+body {
+    background-color: darkslategrey;
+}
+
+header {
+    color: white;
+    font-size: 500%;
+    font-family: 'Courier New', Courier, monospace;
+    font-stretch: extra-condensed;
+    text-align: center;
+}
+
+a {
+    color: white;
+    font-size: 200%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+    border: 20px, solid, black;
+}
