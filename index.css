@@ -10,7 +10,7 @@ header {
     text-align: center;
 }
 
-a {
+#btn {
     color: white;
     font-size: 200%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
