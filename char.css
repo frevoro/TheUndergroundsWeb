@@ -2,10 +2,9 @@ body {
     background-color: darkslategrey;
 }
 
-header {
+h1 {
     color: white;
     font-size: 500%;
-    font-family: 'Courier New', Courier, monospace;
     font-stretch: extra-condensed;
     text-align: center;
 }
